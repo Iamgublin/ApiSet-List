@@ -12,5 +12,5 @@ System  | 32 bits | 64 bits |  marco define |
 
 Modify from https://github.com/zodiacon/WindowsInternals/tree/master/APISetMap
 
-![WIN7](https://github.com/Iamgublin/ApiTest-List/blob/master/TestApiSet/WIN7.png)
+![WIN7](https://github.com/Iamgublin/ApiSet-List/blob/master/TestApiSet/WIN7.png)
 Win7 ApiSet Redirection
