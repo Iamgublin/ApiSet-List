@@ -4,7 +4,7 @@ Main Content
 ---------------
 List All [API Set Redirection](https://msdn.microsoft.com/en-us/library/windows/desktop/hh802935(v=vs.85).aspx) In Win7 Win8 and Win10 x86,x64
 
-System  | 32 bits | 64 bits |  marco define |
+System  | 32 bits | 64 bits |  macro define |
 --------|---------|---------|----------------
  WIN7   |    +    |    +    | #define WIN7  |
  WIN8   |    +    |    +    | #define WIN8  |
